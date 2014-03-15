@@ -1,4 +1,4 @@
 Compass
 =======
 
-Practice with Android
+Practice with AndroidApps
